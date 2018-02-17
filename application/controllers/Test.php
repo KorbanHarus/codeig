@@ -28,9 +28,11 @@ class Test extends CI_Controller {
         
         echo "<pre>";
         print_r ($result);
+        
         echo "</pre>";
         
     }
+    
 }
 
 ?>
